@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int a[10],i,p;
+int a[3],i,p;
 printf("enter the 3 values:");
 for(i=0;i<3;i++)
 {
