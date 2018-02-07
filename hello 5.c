@@ -1,8 +1,8 @@
 #include<stdio.h>
 void main()
 {
-int n=5,i;
-for(i=0;i<=n;i++)
+int k=5,i;
+for(i=1;i<=k;i++)
 {
 printf("laptop \n");
 }
