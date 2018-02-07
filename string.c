@@ -6,11 +6,11 @@ printf("enter the value");
 scanf("%c",&ch);
 if(ch>='1' && ch<='9')
 {
-printf("given is numeric");
+printf("yes");
 }
 else
 {
-printf("given is string");
+printf("no");
 }
 return 0;
 }
